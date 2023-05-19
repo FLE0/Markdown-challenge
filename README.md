@@ -13,7 +13,7 @@
 |--|--|
 | Favorite food: | BBQ |
 |--|--|
-| Pinneaple on pizza: | <input type="checkbox" /> yes <input type="checkbox" /> no <input type="checkbox" checked /> NO PIZZA |
+| Pinneaple on pizza: | - [] yes |
 
 ## Hobbies
  - music
