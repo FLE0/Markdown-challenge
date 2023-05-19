@@ -13,7 +13,9 @@
 |--|--|
 | Favorite food: | BBQ |
 |--|--|
-| Pinneaple on pizza: | <input type="checkbox" /> yes <input type="checkbox" /> no <input type="checkbox" checked /> NO PIZZA |
+| Pinneaple on pizza: | - [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are |
 
 ## Hobbies
  - music
