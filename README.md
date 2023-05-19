@@ -13,7 +13,7 @@
 |--|--|
 | Favorite food: | BBQ |
 |--|--|
-| Pinneaple on pizza: | <ul><li>[x] item1</li><li>[ ] item2</li></ul> |
+| Pinneaple on pizza: | <ul><li>[ ] Yes</li><li>[ ] No</li><li>[x] NO PIZZA</li></ul> |
 
 ## Hobbies
  - music
