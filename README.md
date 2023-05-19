@@ -1,7 +1,8 @@
+<img align="left" width="100" height="100" src="IMG_1052.png">
+
 # Ilias HAMDAOUI
 *ma citation* 
 
-![Ma belle tete](IMG_1052.png)
 
 
 ## description de l'artiste
@@ -30,8 +31,7 @@
 
 ## You can always count on me when...
 
-_Tell your teammates which positive contribution to the group you will make._  
-_This could be technical, making people feel comfortable, being an organiser..._
+you need to make a carousel with JS.
 
 ## A funny story
 once upon a time... Ilias jumps in his dad's taxi and found a 50$ bill on the backseat we can say it was his lucky lucky day... or not.
