@@ -13,9 +13,7 @@
 |--|--|
 | Favorite food: | BBQ |
 |--|--|
-| Pinneaple on pizza: | - [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are |
+| Pinneaple on pizza: | <ul><li>[x] item1</li><li>[ ] item2</li></ul> |
 
 ## Hobbies
  - music
