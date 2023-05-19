@@ -1,7 +1,7 @@
 <img align="left" width="100" height="100" src="IMG_1052.png">
 
 # Ilias HAMDAOUI
-*ma citation* 
+*L'amour peut beaucoup, l'argent peut tout* 
 
 
 
@@ -13,7 +13,7 @@
 |--|--|
 | Favorite food: | BBQ |
 |--|--|
-| Pinneaple on pizza: | - [] yes |
+| Pinneaple on pizza: | <input type="checkbox" /> yes <input type="checkbox" /> no <input type="checkbox" checked /> NO PIZZA |
 
 ## Hobbies
  - music
