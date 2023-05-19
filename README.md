@@ -8,11 +8,8 @@
 ## description de l'artiste
 
 | Birthday: | 29/01 |
-|--|--|
 | Favorite color: | Blue |
-|--|--|
 | Favorite food: | BBQ |
-|--|--|
 | Pinneaple on pizza: | <input type="checkbox" /> yes <input type="checkbox" /> no <input type="checkbox" /> NO PIZZA |
 
 ## Hobbies
