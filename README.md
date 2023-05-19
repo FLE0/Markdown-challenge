@@ -17,17 +17,17 @@
 
 ## Hobbies
  - music
-	1. un peu pnl
-	2.  un peu angel
-	3. un peu piano (quand faut se concentrer) 
+	+  un peu pnl
+	+  un peu angel
+	+  un peu piano (quand faut se concentrer) 
  - cinema/Netflix
-	 1. Shaolin soccer (le DVD que je mettais en boucle)
-	 2. How i meet your mother
-	 3. Ozark
+	+  Shaolin soccer (le DVD que je mettais en boucle)
+	+  How i meet your mother
+	+  Ozark
  - gaming
-	 1. CS
-	 2. CS
-	 3. CS
+	+  CS
+	+  CS
+	+  CS
 
 ## You can always count on me when...
 
